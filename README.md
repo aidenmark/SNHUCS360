@@ -1,7 +1,7 @@
 Aeriel Denmark
 CS 360 - Mobile Architecture and Programming
 Krauss - Journal Portfolio Submission
-*due Thurs 10/27/2024*
+*due Sun 10/27/2024*
 
 Mobile App Design
 
